@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://porkbutts.github.io/astro-blog/",
+  website: "https://porkbutts.github.io/",
   author: "Porkbutts",
   profile: "https://github.com/Porkbutts",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/Porkbutts/astro-blog/edit/main/",
+    url: "https://github.com/Porkbutts/Porkbutts.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
