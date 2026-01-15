@@ -22,7 +22,7 @@ export function getPath(
     .map(segment => slugifyStr(segment)); // slugify each segment path
 
   const base = import.meta.env.BASE_URL;
-  const basePath = includeBase ? `${base}/posts` : base;
+  const basePath = includeBase ? `${base}/posts` : "";
 
   // Making sure `id` does not contain the directory
   const blogId = id.split("/");
