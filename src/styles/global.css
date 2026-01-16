@@ -8,16 +8,20 @@ html[data-theme="light"] {
   --background: #fdfdfd;
   --foreground: #282728;
   --accent: #006cac;
+  --accent-hover: #0056a3;
   --muted: #e6e6e6;
+  --muted-text: #6b7280;
   --border: #ece9e9;
 }
 
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #343f60;
-  --border: #ab4b08;
+  --background: #0F1115;
+  --foreground: #F5F7FA;
+  --accent: #3FE0B5;
+  --accent-hover: #2FC9A0;
+  --muted: #181B22;
+  --muted-text: #9BA4B5;
+  --border: #242834;
 }
 
 @theme inline {
@@ -25,7 +29,9 @@ html[data-theme="dark"] {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
   --color-muted: var(--muted);
+  --color-muted-text: var(--muted-text);
   --color-border: var(--border);
 }
 
