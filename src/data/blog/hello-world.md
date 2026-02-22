@@ -15,13 +15,15 @@ This is the first post on this blog, so let me start with the basics: who I am, 
 
 ## Who I Am
 
-I'm Adrian Teng-Amnuay, a systems engineer working at the intersection of software infrastructure and AI. My background is in building reliable, production-grade systems — the kind of work where uptime matters and "it works on my machine" isn't good enough.
+I'm Adrian Teng-Amnuay, a software engineer with 10+ years of experience in production infrastructure, cloud systems, and security. I've spent my career building things that have to work at scale and can't go down — service mesh architectures spanning hundreds of Kubernetes clusters, zero-trust authentication systems handling thousands of requests per second, custom container orchestration platforms scaling to millions of concurrent containers.
 
-Over the past few years, I've been applying that same engineering rigor to AI automation. Not the "ask ChatGPT a question" kind of AI, but the kind where agents run workflows, orchestrate multi-step processes, and integrate into existing infrastructure to do real work.
+More recently, I've been building AI-powered tools and workflows: natural language interfaces that replace tedious manual configuration, and LLM-powered developer tools that help engineers navigate complex codebases. That work is what pulled me fully into the AI automation space.
 
 ## Why This Blog Exists
 
 The AI space moves fast, and most of the conversation happens on Twitter threads and YouTube thumbnails. What's harder to find is detailed, practical writing about what it actually takes to build AI-powered systems that work in production.
+
+I've spent a decade learning that the hard part of any system isn't the core technology — it's everything around it. Failure modes, observability, deployment, integration, operations. That's just as true for AI systems as it was for service meshes and authentication proxies.
 
 That's the gap I want to fill. This blog is where I'll document what I'm building, what I'm learning, and the frameworks I use to think about these problems.
 

@@ -3,18 +3,27 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Adrian Teng-Amnuay, a systems engineer focused on AI automation. I build agent-driven workflows, developer tools, and production infrastructure that put AI to work on real problems — not just demos and prototypes.
+I'm Adrian Teng-Amnuay, a software engineer with 10+ years of experience building production infrastructure at scale. My work has always been about making complex systems reliable — and now I'm applying that same discipline to AI automation.
 
-## What I Do
+## Background
 
-My work sits at the intersection of software engineering and AI operations. I design and build systems where AI agents handle meaningful work: automating workflows, orchestrating multi-step processes, and integrating into existing infrastructure.
+I spent the first decade of my career deep in cloud infrastructure, container orchestration, and production security. The kinds of systems I've built include:
+
+- **Service mesh architectures** spanning hundreds of Kubernetes clusters and nearly a thousand applications
+- **Zero-trust authentication proxies** handling thousands of requests per second for entire organizations
+- **Custom container orchestration platforms** that scale to millions of concurrent containers
+- **AI-powered developer tools** that help engineers navigate complex codebases and configurations
+
+The through-line is taking complex operational problems and building systems that handle them reliably. AI automation is the latest — and most interesting — version of that.
+
+## What I Do Now
 
 **Focus areas:**
 
 - **Agentic systems** — designing AI agents that operate reliably in production environments
 - **Workflow automation** — building pipelines that connect AI capabilities to real business processes
 - **Developer tooling** — creating tools that make AI-assisted development practical and repeatable
-- **Systems infrastructure** — deploying and operating AI workloads at the platform level
+- **Infrastructure** — deploying and operating AI workloads with the same rigor as any other production system
 
 ## What This Site Covers
 
