@@ -3,34 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Adrian Teng-Amnuay, a software engineer with 10+ years of experience building production infrastructure at scale. My work has always been about making complex systems reliable — and now I'm applying that same discipline to AI automation.
+I'm Adrian Teng-Amnuay. I've spent the last 10+ years building production infrastructure, and now I build AI automation systems.
 
-## Background
+The short version: I got into this through cloud infrastructure, container orchestration, and production security. Service meshes across hundreds of Kubernetes clusters, zero-trust auth proxies at thousands of requests per second, container platforms scaling to millions of concurrent workloads, AI-powered developer tools for navigating complex codebases. The common thread was always taking messy operational problems and building systems that handle them without falling over.
 
-I spent the first decade of my career deep in cloud infrastructure, container orchestration, and production security. The kinds of systems I've built include:
+AI automation is the current version of that same problem. The interesting engineering isn't the model itself. It's the orchestration, failure handling, state management, and integration work that makes a model call actually useful inside a real system.
 
-- **Service mesh architectures** spanning hundreds of Kubernetes clusters and nearly a thousand applications
-- **Zero-trust authentication proxies** handling thousands of requests per second for entire organizations
-- **Custom container orchestration platforms** that scale to millions of concurrent containers
-- **AI-powered developer tools** that help engineers navigate complex codebases and configurations
+## What I work on
 
-The through-line is taking complex operational problems and building systems that handle them reliably. AI automation is the latest — and most interesting — version of that.
+I focus on agentic systems, workflow automation, developer tooling, and the infrastructure underneath all of it. Most of my time goes into designing AI agents that behave reliably in production, building pipelines that connect AI capabilities to actual business processes, and deploying AI workloads with the same operational rigor as anything else running in prod.
 
-## What I Do Now
+## What this site is for
 
-**Focus areas:**
+I write about the engineering side of AI automation. Build logs, architectural decisions, framework comparisons, and things I've learned from putting these systems into production. The audience is engineers and technical leaders who are past the prompting phase and want to build real infrastructure around AI.
 
-- **Agentic systems** — designing AI agents that operate reliably in production environments
-- **Workflow automation** — building pipelines that connect AI capabilities to real business processes
-- **Developer tooling** — creating tools that make AI-assisted development practical and repeatable
-- **Infrastructure** — deploying and operating AI workloads with the same rigor as any other production system
+## Contact
 
-## What This Site Covers
-
-This blog is where I write about the engineering side of AI automation. Expect build logs, architectural breakdowns, framework comparisons, and lessons learned from putting these systems into production.
-
-I write for engineers and technical leaders who want to move beyond prompt engineering into building real AI-powered infrastructure.
-
-## Get in Touch
-
-If you're working on similar problems or interested in collaboration, reach out via [email](mailto:pumpadrian@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/atengamn/).
+If you're working on similar problems or want to collaborate, reach out via [email](mailto:pumpadrian@gmail.com) or [LinkedIn](https://www.linkedin.com/in/atengamn/).
