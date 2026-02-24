@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://porkbutts.github.io/",
+  website: "https://adriant.io/",
   author: "Adrian Teng-Amnuay",
   profile: "https://github.com/Porkbutts",
   desc: "Systems-level AI automation practitioner. Building agent-driven workflows, tools, and infrastructure.",
