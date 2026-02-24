@@ -9,7 +9,7 @@ These days I'm deep into agentic AI. I'm building tools, prototypes, and product
 
 ## What this site is
 
-This is where I share what I'm building and what I'm learning along the way. Expect build logs, architectural breakdowns, design patterns, and honest assessments of what works and what doesn't. I'm building up a portfolio of agentic software and documenting the engineering decisions behind it.
+This is where I share what I'm building and what I'm learning along the way. I work primarily with Claude Code, and this site is where I document the experiments: what I built, how it works, and how you can do it too. I'm building up a portfolio of agentic software and documenting the engineering decisions behind it.
 
 The goal is straightforward: demonstrate that I can build these systems well, and connect with people who need them built.
 
