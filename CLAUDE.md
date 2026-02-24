@@ -59,6 +59,18 @@ tags:                              # defaults to ["others"]
 description: "Short description"   # required
 ```
 
+## Transcript Anonymization
+
+Blog posts frequently include Claude conversation transcripts to demonstrate agentic workflows. Before incorporating any transcript into a post, anonymize it:
+
+- Replace real company names, client names, and employer names with generic placeholders (e.g., "Acme Corp", "the client", "a fintech startup").
+- Remove or replace internal project names, repo names, and infrastructure identifiers that could identify a specific organization.
+- Strip API keys, tokens, secrets, internal URLs, and IP addresses.
+- Replace real people's names (other than Adrian's) with generic references ("a colleague", "the team lead").
+- Preserve the technical substance. The goal is to protect privacy without losing the engineering detail that makes the transcript useful.
+
+When Adrian provides a transcript, apply these rules automatically before drafting the post. Flag anything ambiguous and ask before publishing.
+
 ---
 
 ## Adrian's Identity and Positioning
