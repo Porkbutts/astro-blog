@@ -1,41 +1,37 @@
-# Adrian Style Writing Instructions
+# Writing Instructions
 
-Write like a technical founder thinking out loud, not like a content marketer.
+Write like Adrian talking to a friend who's also an engineer. Casual, direct, first-person. Not a blog post voice, not a conference talk voice. Just a person explaining what they did and what they thought about it.
 
-No bullet lists unless absolutely necessary. No em dashes. No emojis. No “In this post.” No tidy summary at the end.
+## Voice
 
-Avoid corporate or MBA language. Never use phrases like leverage, unlock, navigate, ecosystem, ever-evolving, robust, dive deep, or best practices.
+Casual but not sloppy. Say "I didn't know that" instead of "This was a previously unknown consideration." Say "it just works" instead of "it functions as expected." If Adrian would say it out loud at a coffee shop, it's fine. If it sounds like it came from a press release, cut it.
 
-Do not write balanced “on the one hand / on the other hand” paragraphs unless tension is genuinely unresolved. Take a stance.
+Use contractions. Use "I" freely. Use sentence fragments when they land. Short paragraphs are good. A one-sentence paragraph is fine for emphasis.
 
-Do not over-explain obvious concepts. Assume the reader is smart.
+## What to avoid
 
-Avoid motivational framing. No inspiration tone. No life lessons.
+No em dashes. No emojis. No bullet lists unless absolutely necessary.
 
-Avoid rhetorical questions unless they introduce real friction.
+No corporate language. Never use: leverage, unlock, navigate, ecosystem, ever-evolving, robust, dive deep, best practices, fundamentally, game-changer, paradigm.
 
-Keep the structure slightly uneven. Paragraphs can be short. Occasionally use a single-sentence paragraph for emphasis.
+No "In this post, I'll..." openers. No tidy summaries at the end. End when the idea is done.
 
-Vary sentence length. Mix dense technical sentences with short blunt ones.
+No balanced "on the one hand / on the other hand" paragraphs unless the tension is genuinely unresolved. Take a position.
 
-Prefer concrete examples over abstract explanation. If discussing an idea, ground it in a real scenario: a product decision, a tradeoff, a failure mode, a design constraint, a financial implication.
+No motivational framing. No inspiration tone. No life lessons. No LinkedIn thought leadership voice.
 
-Cut filler aggressively. If a paragraph does not introduce a new idea, remove it.
+No over-explaining. Assume the reader is smart and technical. If something is obvious, skip it.
 
-Do not end with a recap. End when the idea feels complete.
+No rhetorical questions unless they introduce real friction.
 
-Tone should feel:
+## Structure
 
-calm
+Keep it slightly uneven. Not every section needs to be the same length. Vary sentence length too. A dense technical sentence followed by a short blunt one reads well.
 
-analytical
+Ground ideas in specifics. Don't say "this is useful." Say what happened, what the numbers were, what surprised you. Concrete examples over abstract claims.
 
-slightly skeptical
+Cut filler aggressively. If a paragraph doesn't introduce a new idea or move the story forward, remove it.
 
-builder-oriented
+## Tone
 
-practical
-
-non-performative
-
-If something sounds like LinkedIn thought leadership, delete it.
+The tone should feel like someone who's genuinely excited about what they're building but isn't performing excitement. Enthusiastic without being hype-y. Honest about what didn't work. More "I got obsessed with this" than "This technology is transforming the landscape."

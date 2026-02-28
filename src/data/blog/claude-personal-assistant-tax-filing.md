@@ -1,7 +1,7 @@
 ---
 author: Adrian Teng-Amnuay
 pubDatetime: 2026-02-27T12:00:00Z
-title: "Claude searched my Gmail and saved me money on my taxes"
+title: "Claude Code as a personal tax advisor"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,6 @@ TurboTax gives you the rules. You still have to do the work of figuring out whet
 
 This works because of MCP (Model Context Protocol), which lets Claude connect to external tools and data sources. I actually [built a custom Gmail MCP server](https://github.com/Porkbutts/gmail-mcp-server) because I eventually want Claude to send emails on my behalf, and the default connectors don't support that. But for just reading and searching emails, the standard Gmail MCP connector that ships with Claude would work fine.
 
-The setup takes a bit of effort. You configure the MCP server, grant the right OAuth scopes, and trust the model with access to your data. Once that's done, Claude stops being a smart text box you paste things into and starts being something that can actually go find information for you.
 
 ## More to come
 
