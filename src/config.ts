@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://adriant.io/",
   author: "Adrian Teng-Amnuay",
   profile: "https://github.com/Porkbutts",
-  desc: "Systems-level AI automation practitioner. Building agent-driven workflows, tools, and infrastructure.",
+  desc: "Software engineer trying to automate every part of my life with Claude Code. Writing about how it's going.",
   title: "Adrian Teng-Amnuay",
   ogImage: "og-default.jpg",
   lightAndDarkMode: true,
